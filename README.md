@@ -1,4 +1,4 @@
-# Welcome to Form Notes App
+# Welcome to Notes App
 
 ## Technologies Used
 - HTML, CSS & JAVASCRIPT 
